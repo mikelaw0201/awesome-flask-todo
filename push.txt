@@ -1,0 +1,2 @@
+git remote add origin https://github.com/mikelaw0201/awesome-flask-todo.git
+git push -u origin master
